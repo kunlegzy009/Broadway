@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: auto;
+}
+
+.header{
+   background-image: url(/resources/images/the-flatiron-building.png);
+}
+
+.header p {
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+.nav ul, a {
+    list-style-type: none; 
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+}
+
+.process {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.steps {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.content{
+    font-family: Helvetica;
+    font-size: 14px;
+}
